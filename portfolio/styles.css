@@ -566,8 +566,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--orange); outlin
 }
 .contact-link:hover { transform: translateY(-3px); background: var(--acid); color: var(--ink); }
 .contact-link span:last-child { font-size: 17px; }
-.contact-link-pending { cursor: default; }
-.contact-link-pending:hover { transform: none; background: var(--ink); color: var(--paper); }
+
 .closing-footnote { display: block; margin-top: 82px; padding-top: 18px; border-top: 1px solid rgba(23,24,21,.3); font-size: 8px; }
 .site-footer {
   display: flex;
